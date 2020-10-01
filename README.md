@@ -1,0 +1,1 @@
+This is a very simple project to automate the process of organizing files in the download folder in MacOS. This project has script written in python. 
