@@ -12,7 +12,7 @@ others_dir = '/Users/{}/Downloads/others/'.format(user)
 software_dir = '/Users/{}/Downloads/softwares/'.format(user)
 
 # category wise file types
-doc_types = ('.doc', '.docx', '.txt', '.pdf', '.xls', '.ppt', '.xlsx', )
+doc_types = ('.doc', '.docx', '.txt', '.pdf', '.xls', '.ppt', '.xlsx', '.pptx', '.md', '.csv')
 img_types = ('.jpg', '.jpeg', '.png', '.svg', '.gif', '.tif', '.tiff')
 software_types = ('.exe', '.pkg', '.dmg')
 
