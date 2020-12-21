@@ -17,5 +17,5 @@ It will open the crontab file in the default text editor, where you can add jobs
 
 
 * To make automation.py a cronjob which runs at 0 min every hour we can add following command in the crontab file
-    0 */1 * * * cd ~/Downloads/ && python3 automation.py >>~ Downloads/Log/log.txt
+    0 */1 * * * cd ~/Downloads/ && python3 automation.py >> ~/Downloads/Log/log.txt
 
