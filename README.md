@@ -20,6 +20,6 @@ To run the program first make sure you have following things done
 Now, to run the script, go to the Downloads folder and execute the following command in the terminal 
 `python3 automation.py >>~/Downloads/Log/log.txt`
 
-Now, to make this script a cronjob and run it automatically after a certain interval of time follow the instructions in this article:
+Now, to make this script a cronjob and run it automatically after a certain interval of time follow the instructions either in cronjob.md file or in this article:
 https://medium.com/swlh/automation-python-organizing-files-5d2b6b933402?source=friends_link&sk=da95bd01abb41776dd9230a72ba8f193
 
